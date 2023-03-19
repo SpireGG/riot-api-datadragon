@@ -1,9 +1,9 @@
 {
-	"name": "dolejska-daniel/riot-api-datadragon",
+	"name": "spiregg/riot-api-datadragon",
 	"type": "library",
 	"description": "Riot DataDragon API wrapper for PHP7",
 	"keywords": ["riot", "data dragon", "api", "wrapper", "php7"],
-	"homepage": "https://github.com/dolejska-daniel/riot-api",
+	"homepage": "https://github.com/SpireGG/riot-api",
 	"license": "GPL-3.0-or-later",
 	"authors": [
 		{
@@ -18,8 +18,8 @@
 	"require": {
 		"nette/utils": "^3",
 		"guzzlehttp/guzzle": "^7|^6",
-		"symfony/console": "^5",
-		"symfony/cache": "^5",
+		"symfony/console": "^6",
+		"symfony/cache": "^6",
 		"psr/cache": "^1",
 		"php": ">=7.3",
 		"ext-json": "*"
