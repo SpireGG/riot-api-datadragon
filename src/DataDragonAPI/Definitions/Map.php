@@ -27,11 +27,11 @@ namespace RiotAPI\DataDragonAPI\Definitions;
  */
 class Map
 {
-	const ORIGINAL_SUMMONERS_RIFT = 1;
+    const ORIGINAL_SUMMONERS_RIFT = 1;
 
-	const TWISTED_TREELINE = 10;
+    const TWISTED_TREELINE = 10;
 
-	const SUMMONERS_RIFT = 11;
+    const SUMMONERS_RIFT = 11;
 
-	const HOWLING_ABYSS = 12;
+    const HOWLING_ABYSS = 12;
 }

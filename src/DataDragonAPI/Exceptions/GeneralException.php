@@ -20,9 +20,13 @@
 namespace RiotAPI\DataDragonAPI\Exceptions;
 
 
+use Exception;
+
 /**
  *   Class GeneralException
  *
  * @package RiotAPI\DataDragonAPI\Exceptions
  */
-class GeneralException extends \Exception {}
+class GeneralException extends Exception
+{
+}

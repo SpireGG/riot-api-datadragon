@@ -27,15 +27,15 @@ namespace RiotAPI\DataDragonAPI\Definitions;
  */
 class UI
 {
-	const CHAMPION = "champion";
+    const CHAMPION = "champion";
 
-	const GOLD = "gold";
+    const GOLD = "gold";
 
-	const ITEMS = "items";
+    const ITEMS = "items";
 
-	const MINION = "minion";
+    const MINION = "minion";
 
-	const SCORE = "score";
+    const SCORE = "score";
 
-	const SPELLS = "spells";
+    const SPELLS = "spells";
 }

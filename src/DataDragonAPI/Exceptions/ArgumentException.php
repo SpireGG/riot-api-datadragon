@@ -25,4 +25,6 @@ namespace RiotAPI\DataDragonAPI\Exceptions;
  *
  * @package RiotAPI\DataDragonAPI\Exceptions
  */
-class ArgumentException extends GeneralException {}
+class ArgumentException extends GeneralException
+{
+}

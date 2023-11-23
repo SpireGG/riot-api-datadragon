@@ -25,4 +25,6 @@ namespace RiotAPI\DataDragonAPI\Exceptions;
  *
  * @package RiotAPI\DataDragonAPI\Exceptions
  */
-class SettingsException extends GeneralException {}
+class SettingsException extends GeneralException
+{
+}

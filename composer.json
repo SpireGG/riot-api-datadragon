@@ -4,7 +4,7 @@
 	"description": "Riot DataDragon API wrapper for PHP8",
 	"keywords": ["riot", "data dragon", "api", "wrapper", "php8"],
 	"homepage": "https://github.com/SpireGG/riot-api",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"license": "GPL-3.0-or-later",
 	"authors": [
 		{
@@ -20,8 +20,8 @@
 	],
 	"require": {
 		"nette/utils": "v4",
-		"spiregg/riot-api-base": "^2.0",
-		"spiregg/riot-api-league": "^2.1",
+		"spiregg/riot-api-base": "^2.1",
+		"spiregg/riot-api-league": "^2.2",
 		"php": ">=8.1",
 		"ext-json": "*"
 	},
